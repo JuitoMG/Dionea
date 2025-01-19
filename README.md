@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Hay que remontarse a la cuna de la civilización para encontrar los primeros indicios sobre la necesidad de captar la atención con el fin de vender algo. En la antigua Mesopotamia, hace más de 5,000 años, se utilizaban tablillas de arcilla para anunciar productos y servicios. Los egipcios empleaban papiros y muros para sus mensajes, mientras que en Grecia y Roma los comerciantes comenzaron a estudiar las necesidades locales, adaptando sus anuncios a las demandas específicas de cada comunidad.
+Hay que remontarse a la cuna de la civilización para encontrar los primeros indicios sobre la necesidad de captar la atención con el fin de vender algo. En la antigua Mesopotamia, hace más de 5.000 años, se utilizaban tablillas de arcilla para anunciar productos y servicios. Los egipcios empleaban papiros y muros para sus mensajes, mientras que en Grecia y Roma los comerciantes comenzaron a estudiar las necesidades locales, adaptando sus anuncios a las demandas específicas de cada comunidad.
 
 Con la Revolución Industrial, los productores dieron un paso más, segmentando los mercados para dirigirse de manera más efectiva a diferentes grupos sociales y perfeccionando los métodos de análisis del cliente. Posteriormente, la llegada de la radio y la televisión revolucionó el marketing al permitir identificar franjas horarias y programar anuncios dirigidos a audiencias demográficas específicas. Fue en esta época cuando surgió la publicidad emocional, que no solo buscaba vender productos, sino también aprovechar las vulnerabilidades del público para conectar emocionalmente, apoyándose en una investigación cada vez más precisa de las audiencias.
 
