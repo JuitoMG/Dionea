@@ -1,4 +1,4 @@
-# Proyecto Dionea - Por un uso consciente de la tecnologia
+# 🌱Proyecto Dionea - Por un uso consciente y ético de la tecnologia
 
 ## Introducción
 
@@ -29,7 +29,7 @@ Paralelamente, también se busca promover el apoyo de las instituciones. No se t
 
 Este proyecto nace de la preocupación por los efectos que el diseño adictivo de los smartphones está teniendo en nuestra sociedad. Como usuarios, tenemos derecho a decidir cómo queremos interactuar con nuestros dispositivos, sin estar constantemente expuestos a estrategias diseñadas para capturar nuestra atención, que provocan un exceso y desequilibrio en nuestro día a día, y en toda la sociedad. 
 
-Con el **Proyecto Ficus**, buscamos dar herramientas para que las personas puedan reconectar con el mundo real y utilizar la tecnología de manera consciente, mientras las instituciones crean una zona de confort que proteja a todos los actores: Las empresas, los consumidores y los niños.
+Con el **Proyecto Dionea**, buscamos dar herramientas para que las personas puedan reconectar con el mundo real y utilizar la tecnología de manera consciente, mientras las instituciones crean una zona de confort que proteja a todos los actores: Las empresas, los consumidores y los niños, y a mayores concienciar a los fabricantes y desarrolladores para que estén implicados a la hora de crear sus productos, desarrollando de forma ética.
 
 
 
